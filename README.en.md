@@ -5,7 +5,7 @@ English · [Русский](README.md)
 Two output styles (an output style is an instruction that shapes how Claude Code answers). Both are written for a reader with ADHD: result first, short, plain words.
 
 ```
-git clone https://github.com/becyb-org/jadlis-output-styles.git
+git clone https://github.com/beCyborg/jadlis-output-styles.git
 sh jadlis-output-styles/install.sh --plan
 sh jadlis-output-styles/install.sh
 ```
@@ -39,8 +39,8 @@ Update: `git -C jadlis-output-styles pull`, then run `install.sh` again.
 
 ## Related
 
-- [jadlis-claude-md](https://github.com/becyb-org/jadlis-claude-md) — the global `CLAUDE.md`: how the agent understands a task, verifies the result and writes for people.
-- [jadlis-claudecode](https://github.com/becyb-org/jadlis-claudecode) — a plugin that sets up Claude Code and the terminal. It turns the Jadlis style on in settings and can install this repo as one step.
+- [jadlis-claude-md](https://github.com/beCyborg/jadlis-claude-md) — the global `CLAUDE.md`: how the agent understands a task, verifies the result and writes for people.
+- [jadlis-claudecode](https://github.com/beCyborg/jadlis-claudecode) — a plugin that sets up Claude Code and the terminal. It turns the Jadlis style on in settings and can install this repo as one step.
 
 ## License
 

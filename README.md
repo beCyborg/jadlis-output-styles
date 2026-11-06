@@ -5,7 +5,7 @@
 Два стиля ответа (output style — инструкция, которая задаёт форму ответа Claude Code). Оба написаны для читателя с СДВГ: сначала результат, коротко, простыми словами.
 
 ```
-git clone https://github.com/becyb-org/jadlis-output-styles.git
+git clone https://github.com/beCyborg/jadlis-output-styles.git
 sh jadlis-output-styles/install.sh --plan
 sh jadlis-output-styles/install.sh
 ```
@@ -39,8 +39,8 @@ Jadlis подходит всем, кто читает ответы глазам�
 
 ## Что рядом
 
-- [jadlis-claude-md](https://github.com/becyb-org/jadlis-claude-md) — глобальный `CLAUDE.md`: как агент понимает задачу, проверяет результат и пишет для людей.
-- [jadlis-claudecode](https://github.com/becyb-org/jadlis-claudecode) — плагин, который собирает Claude Code и терминал. Он включает стиль Jadlis в настройках и может поставить этот репо одним шагом.
+- [jadlis-claude-md](https://github.com/beCyborg/jadlis-claude-md) — глобальный `CLAUDE.md`: как агент понимает задачу, проверяет результат и пишет для людей.
+- [jadlis-claudecode](https://github.com/beCyborg/jadlis-claudecode) — плагин, который собирает Claude Code и терминал. Он включает стиль Jadlis в настройках и может поставить этот репо одним шагом.
 
 ## Лицензия
 
